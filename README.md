@@ -51,7 +51,7 @@ git clone https://github.com/App-blo/Actividad-Sumativa-1.git
    Resultado de búsqueda del tour "Premium".
 ---
 
-**Repositorio GitHub:** \[https://github.com/App-blo/Actividad-Formativa-3-.git]
+**Repositorio GitHub:** \ https://github.com/App-blo/Actividad-Formativa-3-.git
 **Fecha de entrega:** \[15/06/2026]
 
 ---
